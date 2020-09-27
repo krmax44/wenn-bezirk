@@ -1,0 +1,51 @@
+[{
+  "item": "http://www.wikidata.org/entity/Q158083",
+  "name": "Spandau",
+  "population": 231120,
+  "area": 91.878
+}, {
+  "item": "http://www.wikidata.org/entity/Q158089",
+  "name": "Treptow-Köpenick",
+  "population": 271153,
+  "area": 168
+}, {
+  "item": "http://www.wikidata.org/entity/Q158095",
+  "name": "Charlottenburg-Wilmersdorf",
+  "population": 334351,
+  "area": 64.7
+}, {
+  "item": "http://www.wikidata.org/entity/Q158876",
+  "name": "Reinickendorf",
+  "population": 260253,
+  "area": 89.5
+}, {
+  "item": "http://www.wikidata.org/entity/Q158893",
+  "name": "Friedrichshain-Kreuzberg",
+  "population": 281076,
+  "area": 20.2
+}, {
+  "item": "http://www.wikidata.org/entity/Q163966",
+  "name": "Bezirk Mitte",
+  "population": 333905,
+  "area": 39.5
+}, {
+  "item": "http://www.wikidata.org/entity/Q329609",
+  "name": "Lichtenberg",
+  "population": 275142,
+  "area": 52.11
+}, {
+  "item": "http://www.wikidata.org/entity/Q677833",
+  "name": "Treptow",
+  "population": 50000,
+  "area": 40.65
+}, {
+  "item": "http://www.wikidata.org/entity/Q853708",
+  "name": "Charlottenburg",
+  "population": 176113,
+  "area": 30.3
+}, {
+  "item": "http://www.wikidata.org/entity/Q4071168",
+  "name": "Neukölln",
+  "population": 306000,
+  "area": 44.9
+}]

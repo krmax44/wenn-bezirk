@@ -1,0 +1,16 @@
+{
+  "name": "wenns-ein-bezirk-waer",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "lodash.mapvalues": "^4.6.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "firefox 78"
+  ]
+}
