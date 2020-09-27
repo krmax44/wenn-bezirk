@@ -18,7 +18,7 @@ jobs:
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
       - run: yarn install
       - name: Build
-        run: yarn build
+        run: yarn build --public-url https://krmax44.github.io/wenn-bezirk/
       - name: Deploy
         uses: peaceiris/actions-github-pages@v3.1.12
         with:
